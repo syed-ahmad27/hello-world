@@ -1,4 +1,4 @@
 # hello-world
 
-my name is Syed Ahmad
+my name is Syed Ahmad.
 I am from kanpur.
